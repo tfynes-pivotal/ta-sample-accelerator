@@ -4,7 +4,7 @@ accelerator:
 
   # displayName: a descriptive human-readable name. Make this short so as to look nice
   #              in a list of many accelerators shown to a user.
-  displayName: Hello Spring Boot
+  displayName: ta-sample-accelerator
 
   # description: a more detailed description that a user can see if they took a closer
   #              look at a particular accelerator.
