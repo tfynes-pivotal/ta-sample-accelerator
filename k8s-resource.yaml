@@ -1,0 +1,9 @@
+apiVersion: accelerator.apps.tanzu.vmware.com/v1alpha1
+kind: Accelerator
+metadata:
+  name: ta-api-gateway-creator
+spec:
+  git:
+    url: https://github.com/tfynes-pivotal/ta-sample-accelerator
+    ref:
+      branch: main
