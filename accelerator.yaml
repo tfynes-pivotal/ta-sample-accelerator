@@ -18,6 +18,7 @@ accelerator:
     - Java
     - Spring
     - Function
+    - fynes
 
   # options are parameters that can affect how the accelerator behaves.
   # The purpose of the options section is
